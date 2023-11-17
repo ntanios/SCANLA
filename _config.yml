@@ -5,12 +5,8 @@
 
 #REQUIRED
 org_name: SCAN LA
-org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
-org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
-
-#OPTIONAL
+org_summary: Screenings, Care, and Accessibility Network of Los Angeles 
+org_full_description: Take on the role of searching for & reaching out to organizations that provide affordable health resources to bridge vulnerable populations in LA with existing and essential health resources they would have otherwise not known about.
 #Non US-address support coming soon
 org_general_email_inbox: info@scanlosangeles.org
 org_street_address:
